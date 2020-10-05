@@ -1,19 +1,4 @@
 <!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
-
-<!--
-**xbkaishui/xbkaishui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h3 title="hehehe"> Hey 👋, I'm xbkaishui!</h3>
 
 <a href="https://www.linkedin.com/in/bing-xing-40545263/">
@@ -22,16 +7,15 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/xbkaishui1">
   <img align="left" alt="xbkaishui's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
-<br>
+<br />
+<br/>
 <img src="https://komarev.com/ghpvc/?username=xbkaishui&color=blueviolet">
 <br />
 <br />
 
-Hi there, I'm **xbkaishui**, a **Software Engineering ** 🚀 from China.
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
+Hi there, I'm xbkaishui, a Software Architecture 🚀 from China.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
