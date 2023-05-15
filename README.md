@@ -19,11 +19,11 @@ Hi there, I'm xbkaishui, a Software Architecture 🚀 from China.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a software architecture at Credigo.
+- 👨🏽‍💻 I’m currently working as a software architecture at trustbe.
 - 🌱 I’m currently exploring Java with a big interest in Web Scraping and Data Visualization. 
 - 🤔 My interests are big data, architecture, quant and developing some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [xbkaishui@126.com](mailto:xbkaishui@126.com).
+- 📫 Email me at [xxkaishui@gmail.com](mailto:xxkaishui@gmail.com).
 
 <img src="https://github-readme-stats.vercel.app/api?username=xbkaishui&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Xbkaishui's GitHub Stats">
 
