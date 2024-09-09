@@ -19,9 +19,9 @@ Hi there, I'm xbkaishui, a Software Architecture 🚀 from China.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a software architecture at trustbe.
-- 🌱 I’m currently exploring Java with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are big data, architecture, quant and developing some useful and cool stuff xD
+- 👨🏽‍💻 I’m currently working as a software architecture at magci-ai.
+- 🌱 I’m currently exploring robotics. 
+- 🤔 My interests are big data, architecture, quant, ai, robot and developing some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [xxkaishui@gmail.com](mailto:xxkaishui@gmail.com).
 
